@@ -43,4 +43,4 @@ Para rodar este projeto na sua máquina local, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+   git clone [https://github.com/contatemurilodejesus/curriculoBasico.git])
